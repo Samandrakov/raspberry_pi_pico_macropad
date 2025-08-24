@@ -15,15 +15,15 @@ pins = [board.GP2, board.GP3, board.GP4, board.GP5,
 
 # Клавиши для каждой кнопки (можно изменить)
 key_actions = [
-    Keycode.F13,
-    Keycode.F14,
-    Keycode.F15,
-    Keycode.F16,
-    Keycode.F17,
-    Keycode.F18,
-    Keycode.F19,
-    Keycode.F20,
-    Keycode.F21
+    Keycode.ONE,
+    Keycode.THREE,
+    Keycode.TWO,
+    Keycode.FOUR,
+    Keycode.SIX,
+    Keycode.FIVE,
+    Keycode.SEVEN,
+    Keycode.NINE,
+    Keycode.EIGHT
 
 ]
 

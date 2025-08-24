@@ -7,5 +7,7 @@ script for raspberry pi pico macropad
 4) Используйте ide Thonny или любое другое удобное для circut python ide 
 5) Подключитесь к плате через ide 
 6) Выберите circutpython в настройках подключения
-7) Загрузите директорию adafruit_hid и скрипт macropad_script.py
+7) Загрузите директорию adafruit_hid и скрипт macropad_script_nums.py
 8) Переподключите плату без ide или иных подключений к com порту от каких либо ide
+9) Проверьте правильность прожатых клавиш на макропаде (должны воспроизводится числа от 1 до 9 если у вас макропад с 9 клавишами)
+10) Если все верно, можно заменить скрипт macropad_script_nums из for_Test на macropad_script 
