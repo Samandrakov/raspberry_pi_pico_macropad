@@ -203,4 +203,3 @@ class Keyboard:
 
         """
         return bool(self.led_status[0] & led_code)
-
