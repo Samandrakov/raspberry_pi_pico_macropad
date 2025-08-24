@@ -1,5 +1,11 @@
 # raspberry_pi_pico_macropad
+
+<img src="media/img.jpg"  width="50%" /> 
+
+
 script for raspberry pi pico macropad
+
+# Порядок действий
 
 1) Подключите pi pico к com порту зажав кнопку BOOTSEL на плате - появится директория для загрузки прошивки
 2) Загрузите файл из pico_driver в директорию
