@@ -1,8 +1,8 @@
-# 🎮 Raspberry Pi Pico Macropad
+# <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="50" height="50" alt="Raspberry Pi Logo" style="vertical-align: middle;"> Raspberry Pi Pico Macropad
 
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 [![CircuitPython](https://img.shields.io/badge/CircuitPython-6A0FAD?style=for-the-badge&logo=adafruit&logoColor=white)](https://circuitpython.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
 
 Проект программируемой макропады на базе Raspberry Pi Pico с использованием CircuitPython. Устройство эмулирует клавиатуру HID и позволяет назначать произвольные макросы на кнопки.
 
